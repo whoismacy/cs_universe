@@ -1,0 +1,23 @@
+ls - List directory contents
+cd - Change directory
+pwd - Print working directory
+mkdir - Create a new directory
+rmdir - Remove an empty directory
+touch - Create a new empty file
+rm - Remove files or directories
+cp - Copy files or directories
+mv - Move or rename files or directories
+cat - Concatenate and display file content
+chmod - Change file modes or Access Control Lists
+chown - Change file owner and group
+passwd - Update a user's password
+su - Substitute user identity
+sudo - Execute a command as another user
+ping - Send ICMP ECHO_REQUEST to network hosts
+ifconfig - Configure a network interface (deprecated, use ip command)
+ip - Show/manipulate routing, devices, policy routing, and tunnels
+netstat - Print network connections, routing tables, interface statistics, masquerade connections, and multicast memberships
+ssh - OpenSSH SSH client (remote login program)
+scp - Secure copy (remote file copy program)
+wget - Non-interactive network downloader
+curl - Transfer data from or to a server
