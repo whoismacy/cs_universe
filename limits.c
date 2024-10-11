@@ -2,6 +2,9 @@
 #include <limits.h>
 #include <float.h>
 
+//The format specifier for INT_MAX and INT_MIN is %zu this also includes CHAR_BIT and SHRT_MIN
+
+
 int main()
 {
 	printf("The value of INT_MAX is %i\n", INT_MAX);
